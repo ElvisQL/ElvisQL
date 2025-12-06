@@ -11,9 +11,8 @@
 <!--Introduction -->
 I'm a **Computer Engineering Student** at University of Buenos Aires, Full-stack developer passionate about building projects with .NET (C#) for backend and React for frontend, but i also tend to use different technologies to learn much more . I thrive on turning ideas into functional apps, from design to deployment.
 
-- 🌱 Currently learning: Advanced .NET Core patterns and microservices architecture
-- 🔭 Working on: A full-stack e-commerce platform with React + .NET + SQL Server (the idea is to apply what i'm learning in this proyect)
-- 🔭 I'm doing a personal research project on realtime embedded systems for waste management
+-  Currently learning: Advanced .NET Core patterns and microservices architecture
+-  Working on: A full-stack e-commerce platform with React + .NET + SQL Server (the idea is to apply what i'm learning in this proyect)
 - ⚡ Interests: Game development (Unity/C#), DevOps practices, and exploring cloud platforms like Azure
 - 📫 Let’s connect: www.linkedin.com/in/elvisql
 ---
