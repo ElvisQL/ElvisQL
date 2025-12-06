@@ -13,8 +13,8 @@ I'm a **Computer Engineering Student** at University of Buenos Aires, Full-stack
 
 -  Currently learning: Advanced .NET Core patterns and microservices architecture
 -  Working on: A full-stack e-commerce platform with React + .NET + SQL Server (the idea is to apply what i'm learning in this proyect)
-- ⚡ Interests: Game development (Unity/C#), DevOps practices, and exploring cloud platforms like Azure
-- 📫 Let’s connect: www.linkedin.com/in/elvisql
+-  Interests: Game development (Unity/C#), DevOps practices, and exploring cloud platforms like Azure
+-  Let’s connect: www.linkedin.com/in/elvisql
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
